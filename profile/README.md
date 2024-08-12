@@ -9,10 +9,8 @@
 # Funcionalidades e Demonstração da Aplicação
 <ul>
 <li>Login e Registro</li>
-<li>Home, Menu e Notificação</li>
+<li>Home</li>
 <img src="/images/Home.png">
-<img src="/images/Menu.png">
-<img src="/images/Menu Notificação.png">
 <li>Video Aula</li>
 <img src="/images/Vídeo aula.png">
 <li>Materias e Conteudos</li>
@@ -35,5 +33,10 @@
 </ul>
 
 # Tecnologias utilizadas
-
+<img src="/images/html-5.png">
+<img src="/images/css-3.png">
+<img src="/images/figma.png">
+<img src="/images/bootstrap.png">
+<img src="/images/bootstrap.png">
+<img src="/images/php.png">
 # Pessoas Contribuidoras
