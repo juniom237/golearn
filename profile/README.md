@@ -44,5 +44,5 @@
 | :---: | :---: | :---: | :---: |
 
 
-| [<img src="https://avatars.githubusercontent.com/u/164355457?v=4" width=115><br><sub>Felipe Regiani</sub>](https://github.com/felipe-r-regiani) |  [<img src="https://avatars.githubusercontent.com/u/164512732?v=4" width=115><br><sub>VItor Bressan</sub>](https://github.com/Bressanvt) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img src="https://avatars.githubusercontent.com/u/164355457?v=4" width=115><br><sub>Felipe Regiani</sub>](https://github.com/felipe-r-regiani) |  [<img src="https://avatars.githubusercontent.com/u/164512732?v=4" width=115><br><sub>VItor Bressan</sub>](https://github.com/Bressanvt) |  [<img src="https://avatars.githubusercontent.com/u/81768842?v=4" width=115><br><sub>Amanda Frolini</sub>](https://github.com/amandafrolini6) |
 | :---: | :---: | :---: |
